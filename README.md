@@ -35,6 +35,10 @@ The dataset contains **250 transaction records** with the following fields:
 * Customer Since
 * Total Amount
 
+## Explanation video
+
+https://drive.google.com/file/d/1VVCoyrriRIdM8NFlYOdwk4PJ1sskVo_b/view?usp=drive_link
+
 ## Workbook Structure
 
 ### 1. Raw Data
