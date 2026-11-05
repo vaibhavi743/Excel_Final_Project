@@ -37,7 +37,7 @@ The dataset contains **250 transaction records** with the following fields:
 
 ## Explanation video
 
-https://drive.google.com/file/d/1VVCoyrriRIdM8NFlYOdwk4PJ1sskVo_b/view?usp=drive_link
+https://drive.google.com/file/d/1PT8kCRbsEG_4RZQULrntt-HZDndmpHBw/view?usp=drive_link
 
 ## Workbook Structure
 
